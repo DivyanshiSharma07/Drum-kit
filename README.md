@@ -11,13 +11,13 @@ The Drum Kit project aims to recreate the experience of playing a drum set in a 
 - Visual feedback through animation and highlighting of the active drum pad.
 - Easy-to-use interface for an enjoyable user experience.
 
-#How to Use
+# How to Use
 - Open the Drum Kit web application in your browser.
 - Use your computer keyboard or click on the drum pads to trigger the corresponding drum sounds.
 - Experiment with different drum pads to create your own beats and rhythm patterns.
 - Enjoy the immersive drumming experience!
 
-#Technologies Used
+# Technologies Used
 - HTML: Used for structuring the web page elements.
 - CSS: Used for styling the drum pads and overall layout.
 - JavaScript: Used for handling user interactions, playing audio, and animating the drum pads.
